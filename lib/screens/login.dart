@@ -1,8 +1,9 @@
-import 'package:app_template/screens/forget_password.dart';
-import 'package:app_template/utils/dimens.dart';
-import 'package:app_template/utils/strings.dart';
-import 'package:app_template/widgets/widget.dart';
 import 'package:flutter/material.dart';
+
+import '../utils/dimens.dart';
+import '../utils/strings.dart';
+import '../widgets/widget.dart';
+import 'forget_password.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
