@@ -39,6 +39,11 @@ dependencies:
   firebase_core: ^1.21.1
   firebase_auth: ^3.7.0
   flutter_onboarding_slider: ^1.0.7
+  shared_preferences: ^2.0.15
+  intl: ^0.17.0
+  google_maps_flutter: ^2.2.0
+  geolocator: ^9.0.1
+  trust_location: ^2.0.13
 
 dev_dependencies:
   flutter_test:
